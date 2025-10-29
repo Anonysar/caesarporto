@@ -87,7 +87,7 @@ section {
   display: flex;
   align-items: center;
   padding: 0 9%;
-  background: url('/images/formal_nobg.png') no-repeat 85% center;
+  background: url('../images/formal_nobg.png') no-repeat 85% center;
   background-size: 50vh; /* Gambar menyesuaikan proporsi aslinya */
 
 }
@@ -953,4 +953,5 @@ section:nth-child(odd) .animate.scroll,
     100% {
         width: 0;
     }
+
 }
